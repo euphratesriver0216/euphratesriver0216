@@ -1,9 +1,10 @@
+<div align="center">
 ### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=haemin%20codding&fontSize=90)
 
 
 
-<div align="center">
+
 
   
 
@@ -38,8 +39,7 @@
 <br><br><br>
 
 #### 📧 Email : euphratesmin@gmail.com
-</div>
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=footer&text=%20&fontSize=90)
-
+</div>
 
