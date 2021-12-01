@@ -3,7 +3,7 @@
 
 
 
-<div aling="center">
+<div align="center">
 
   
 
