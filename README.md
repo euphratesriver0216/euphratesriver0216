@@ -12,7 +12,7 @@
 
 
 ### 🥕 I am learning 
-- JavaScript
+#F7DF1E
  - Go lang
  - BlockChain
  - React and React Native + Expo 
