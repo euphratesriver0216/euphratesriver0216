@@ -30,13 +30,13 @@
 
 
 
-<img src="https://img.shields.io/badge/HTML5-f16524?style=flat-square&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-28a4d8?style=flat-square&logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-f7e018?style=flat-square&logo=JavaScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-7ddfff?style=flat-square&logo=React&logoColor=black"/>
-<img src="https://img.shields.io/badge/Redux-7649bb?style=flat-square&logo=Redux&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub&logoColor=white"/>
-<img src="https://img.shields.io/badge/Go-7649bb?style=flat-square&logo=Go&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/HTML5-f16524?style=flat-square&logo=HTML5&logoColor=white"/>1
+<img src="https://img.shields.io/badge/CSS3-28a4d8?style=flat-square&logo=CSS3&logoColor=white"/>2
+<img src="https://img.shields.io/badge/JavaScript-f7e018?style=flat-square&logo=JavaScript&logoColor=white"/>3
+<img src="https://img.shields.io/badge/React-7ddfff?style=flat-square&logo=React&logoColor=black"/>4
+<img src="https://img.shields.io/badge/Redux-7649bb?style=flat-square&logo=Redux&logoColor=white"/>5
+<img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub&logoColor=white"/>6
+<img src="https://img.shields.io/badge/Go-7649bb?style=flat-square&logo=Go&logoColor=white"/>7</a>&nbsp 
 <br><br><br>
 
 #### 📧 Email : euphratesmin@gmail.com
