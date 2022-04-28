@@ -26,7 +26,7 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=euphratesriver0216&show_icons=true&theme=radical)
 
-  <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=imysh578&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's github stats" />
+  <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=euphratesriver0216&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's github stats" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=euphratesriver0216&layout=compact)](https://github.com/euphratesriver0216/github-readme-stats)
 
